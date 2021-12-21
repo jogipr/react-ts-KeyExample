@@ -1,3 +1,3 @@
 # react-ts-abz5fe
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-abz5fe)
+This is the example where in the importance of keys in react is explain
