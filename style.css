@@ -4,5 +4,28 @@ p {
 }
 
 .player {
-  margin: 20px;
+  margin: 16px;
+  display: flex;
+  justify-content: space-around;
+}
+
+button {
+  background-color: #eb5353;
+  border: none;
+  padding: 8px;
+  margin: 4px;
+  color: white;
+  border-radius: 4px;
+}
+
+.heading {
+  background-color: #36ae7c;
+  color: white;
+  padding: 4px;
+  border-radius: 4px;
+}
+
+input {
+  padding: 8px;
+  border-radius: 4px;
 }

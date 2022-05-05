@@ -15,8 +15,9 @@ interface AppState {}
 const Player = ({ id, name }) => {
   return (
     <div className="player">
-      {id} <input value={name}></input> {}
-      <input placeholder="firstname" />
+      <div>{id}</div>
+      <div><input value={name}></input></div>
+      <div><input placeholder="firstname" /></div>      
     </div>
   );
 };
